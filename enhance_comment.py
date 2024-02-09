@@ -78,7 +78,7 @@ Your worklog entry to enhance:
             ],
             temperature=temperature,
             max_tokens=max_tokens,
-            top_p=1,
+            top_p=0.2,
             frequency_penalty=0,
             presence_penalty=0
         )
