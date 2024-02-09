@@ -1,1 +1,0 @@
-@John Doe, I'm facing a challenge with my current task. Specifically, I'm having trouble connecting to the backend. Every time I attempt to establish a connection, I consistently receive a 403 error. This error is preventing me from progressing further in my work.
